@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: linear-gradient(to bottom, #F5EFE7, #D8C4B6,#4F709C,213555);
+}
+
+
+
+p {
+    color: #666;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.container h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.container ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.output {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.button {
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+#local-audio {
+    display: none;
+}
